@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on Pamtech Autoland mobile application for Pamtech Group. it s a robust application looking to bring together all car owners and car enthusiasts alike within and outside Africa. We aim to make car repairs and maintenance, easy, fast and reliable.<br>I'm looking to collaborate on open-source projects like Chakra UI to help provide real-life solutions.<br>I'm currently learning Flutter to integrate mobile development into my web development skill.<br>Ask me when I am available to build ground-breaking products for you.<br><br>FUN FACT: the first computer bug was an actual bug(insect).
-
+Hi, I'm a passionate full-stack developer with a deep interest in solving real-world problems through technology. I build scalable and user-focused applications—ranging from fintech platforms to ride-hailing systems—with a focus on performance, usability, and security. My stack includes JavaScript/TypeScript, React, Node.js, Express, Laravel, and Flutter. I’ve worked on high-impact projects. I’m always open to learning, collaboration, and shipping clean, reliable code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-chinemerem) 
