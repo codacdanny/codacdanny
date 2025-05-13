@@ -2,6 +2,8 @@
 Hi, I'm a passionate full-stack developer with a deep interest in solving real-world problems through technology. I build scalable and user-focused applications—ranging from fintech platforms to ride-hailing systems—with a focus on performance, usability, and security. My stack includes JavaScript/TypeScript, React, Node.js, Express, Laravel, and Flutter. I’ve worked on high-impact projects. I’m always open to learning, collaboration, and shipping clean, reliable code.
 
 ## 🌐 Socials:
+[![Portfolio]](https://chinemerem-daniel.onrender.com/) 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-chinemerem) 
 
 # 💻 Tech Stack:
